@@ -1,0 +1,2 @@
+FactoryPatternPackage.HighLighterClass
+FactoryPatternPackage.MyHighlightPainter

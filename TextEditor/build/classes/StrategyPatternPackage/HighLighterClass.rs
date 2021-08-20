@@ -1,0 +1,2 @@
+StrategyPatternPackage.HighLighterClass
+StrategyPatternPackage.MyHighlightPainter
