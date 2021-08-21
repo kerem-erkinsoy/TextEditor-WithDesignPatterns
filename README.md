@@ -1,6 +1,6 @@
 
 # TextEditor-WithDesignPatterns
-Simple Java Text Editor. Command, Factory and Strategy Pattern were applied as the Design Pattern. UI was designed with Swing. 
+Simple Java Text Editor. Command, Factory and Strategy Pattern were applied as the Design Pattern. UI was designed with Swing. Undo operation is provided with the Command pattern. 
 
 
 Text Editor features: 
